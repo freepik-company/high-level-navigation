@@ -1,0 +1,130 @@
+{
+  "menu": {
+    "home": {
+      "title": "Home",
+      "url": "https://www.freepik.com",
+      "icon": "icon-home"
+    },
+    "groups": [
+      {
+        "name": "Tools",
+        "items": [
+          {
+            "title": "AI image generator",
+            "url": "https://www.freepik.com/pikaso/ai-image-generator",
+            "icon": "icon-prompt"
+          },
+          {
+            "title": "AI video generator",
+            "url": "https://www.freepik.com/pikaso/ai-video-generator",
+            "icon": "icon-video",
+            "label": {
+              "text": "New",
+              "type": "blue"
+            }
+          },
+          {
+            "title": "Designer",
+            "url": "https://www.freepik.com/designer",
+            "icon": "icon-designer"
+          },
+          {
+            "title": "Mockup generator",
+            "url": "https://www.freepik.com/mockup-generator",
+            "icon": "icon-mockup"
+          },
+          {
+            "title": "Reimagine",
+            "url": "https://www.freepik.com/pikaso/reimagine",
+            "icon": "icon-reimagine"
+          },
+          {
+            "title": "Upscaler",
+            "url": "https://www.freepik.com/pikaso/upscaler",
+            "icon": "icon-resize"
+          },
+          {
+            "title": "Retouch",
+            "url": "https://www.freepik.com/pikaso/retouch",
+            "icon": "icon-retouch"
+          },
+          {
+            "title": "Expand",
+            "url": "https://www.freepik.com/pikaso/expand",
+            "icon": "icon-expand"
+          },
+          {
+            "title": "Background remover",
+            "url": "https://www.freepik.com/ai/background-remover",
+            "icon": "icon-remove-bg"
+          },
+          {
+            "title": "Image editor",
+            "url": "https://www.freepik.com/photo-editor",
+            "icon": "icon-image-editor"
+          },
+          {
+            "title": "Sketch to image",
+            "url": "https://www.freepik.com/pikaso/sketch",
+            "icon": "icon-sketch"
+          },
+          {
+            "title": "Explore Freepik AI",
+            "url": "https://www.freepik.com/ai",
+            "icon": "icon-more"
+          }
+        ]
+      },
+      {
+        "name": "Content library",
+        "items": [
+          {
+            "title": "Vectors",
+            "url": "https://www.freepik.com/vectors",
+            "icon": "icon-vector"
+          },
+          {
+            "title": "Photos",
+            "url": "https://www.freepik.com/popular-photos",
+            "icon": "icon-photo"
+          },
+          {
+            "title": "AI-generated images",
+            "url": "https://www.freepik.com/ai/images",
+            "icon": "icon-ai-stars"
+          },
+          {
+            "title": "Icons",
+            "url": "https://www.freepik.com/icons",
+            "icon": "icon-icons"
+          },
+          {
+            "title": "Templates",
+            "url": "https://www.freepik.com/templates",
+            "icon": "icon-templates"
+          },
+          {
+            "title": "Mockups",
+            "url": "https://www.freepik.com/mockups",
+            "icon": "icon-mockup"
+          },
+          {
+            "title": "Videos",
+            "url": "https://www.freepik.com/videos",
+            "icon": "icon-camera"
+          },
+          {
+            "title": "Fonts",
+            "url": "https://www.freepik.com/fonts",
+            "icon": "icon-fonts"
+          },
+          {
+            "title": "PSD",
+            "url": "https://www.freepik.com/popular-psd",
+            "icon": "icon-psd"
+          }
+        ]
+      }
+    ]
+  }
+} 
