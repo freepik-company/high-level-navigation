@@ -24,22 +24,7 @@
             }
           },
           {
-            "title": "Designer",
-            "url": "https://www.freepik.com/designer",
-            "icon": "icon-designer"
-          },
-          {
-            "title": "Mockup generator",
-            "url": "https://www.freepik.com/mockup-generator",
-            "icon": "icon-mockup"
-          },
-          {
-            "title": "Reimagine",
-            "url": "https://www.freepik.com/pikaso/reimagine",
-            "icon": "icon-reimagine"
-          },
-          {
-            "title": "Upscaler",
+            "title": "Upscale",
             "url": "https://www.freepik.com/pikaso/upscaler",
             "icon": "icon-resize"
           },
@@ -49,14 +34,19 @@
             "icon": "icon-retouch"
           },
           {
-            "title": "Expand",
-            "url": "https://www.freepik.com/pikaso/expand",
-            "icon": "icon-expand"
+            "title": "Reimagine",
+            "url": "https://www.freepik.com/pikaso/reimagine",
+            "icon": "icon-reimagine"
           },
           {
             "title": "Background remover",
             "url": "https://www.freepik.com/ai/background-remover",
             "icon": "icon-remove-bg"
+          },
+          {
+            "title": "Expand",
+            "url": "https://www.freepik.com/pikaso/expand",
+            "icon": "icon-expand"
           },
           {
             "title": "Image editor",
@@ -67,6 +57,26 @@
             "title": "Sketch to image",
             "url": "https://www.freepik.com/pikaso/sketch",
             "icon": "icon-sketch"
+          },
+          {
+            "title": "Mockup generator",
+            "url": "https://www.freepik.com/mockup-generator",
+            "icon": "icon-mockup"
+          },
+          {
+            "title": "Designer",
+            "url": "https://www.freepik.com/designer",
+            "icon": "icon-designer"
+          },
+          {
+            "title": "AI Icon Generator",
+            "url": "https://www.freepik.com/ai/icon-generator/tool",
+            "icon": "icon-icons"
+          },
+          {
+            "title": "AI Voice Generator",
+            "url": "https://tunes.freepik.com/ai-voice-generator",
+            "icon": "icon-ai-voice"
           },
           {
             "title": "Explore Freepik AI",
@@ -122,9 +132,14 @@
             "title": "PSD",
             "url": "https://www.freepik.com/popular-psd",
             "icon": "icon-psd"
+          },
+          {
+            "title": "Tunes",
+            "url": "https://tunes.freepik.com/",
+            "icon": "icon-tunes"
           }
         ]
       }
     ]
   }
-} 
+}
